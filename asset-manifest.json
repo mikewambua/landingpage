@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/landingpage.git/static/css/main.e6c13ad2.css",
+    "main.js": "/landingpage.git/static/js/main.ff8c4736.js",
+    "static/js/787.66b477fd.chunk.js": "/landingpage.git/static/js/787.66b477fd.chunk.js",
+    "index.html": "/landingpage.git/index.html",
+    "main.e6c13ad2.css.map": "/landingpage.git/static/css/main.e6c13ad2.css.map",
+    "main.ff8c4736.js.map": "/landingpage.git/static/js/main.ff8c4736.js.map",
+    "787.66b477fd.chunk.js.map": "/landingpage.git/static/js/787.66b477fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.ff8c4736.js"
+  ]
+}
